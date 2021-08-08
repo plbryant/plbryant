@@ -1,5 +1,5 @@
 # Hola a todos! Soy [Bryant Paz Loeza a.k.a cachorro , a.k.a pazita !](https://github.com/amandewatnitrr) <img src="./imgs/hi.gif" width="25px">
-<br><br>
+<br>
 <a href="https://twitter.com/plbryantt">
   <img align="left" alt="twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
@@ -19,8 +19,6 @@
 
 ## <p align="center"><h4 align="center"><samp>Desarrollador web, intructor , Entusiasta de typescript  & futuro creador de contenido.</samp></h4></p>
 <div>
-
-<br>
 <br>
 <img align="right" src="./imgs/monogatari.gif" width="40%"/>
 
@@ -31,15 +29,12 @@
  
 ##
 <div>
-<br>
 <h3><b><samp>Experiencia:</samp></b></h3>
 - 👷 <samp>Full Stack con Javascript en H. Ayuntamiento de Yobaín ( Enero 2021 - Junio 2021 - 6 meses, Mérida )<br>
 - 🔬 <samp>Líder de Proyecto IoT en la Universidad Tecnológica Metropolitana ( Enero 2020 -  Diciembre 2020 - 1 año, Merida )<br>
 - 🕵🏻 <samp>Full Stack con Javascript en UADY de Hunucmá ( Enero 2019 - Diciembre 2019 - 1 año, Hunucmá )<br>
 
 ##
-<br>
-<br>
 <h3><b><samp>Habilidades y herramientas</samp></b></h3>
 <img src="./imgs/javascript.png" alt="javascript" width="50"/>
 <img src="./imgs/typescript.png" alt="typescript" width="160"/>
