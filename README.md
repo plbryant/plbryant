@@ -18,31 +18,3 @@
 </a>
 
 ![](./imgs/header_.png)
-
-## <p align="center"><h4 align="center"><samp>Web developer, teacher , Typescript Lover & Future content creator.</samp></h4></p>
-
-<div>
-<br>
-
-##
-
-<h3><b><samp>Habilidades y herramientas</samp></b></h3>
-<br>
-<img src="./imgs/javascript.png" alt="javascript" width="50"/>
-<img src="./imgs/typescript.png" alt="typescript" width="160"/>
-<img src="./imgs/nodejs.png" alt="nodejs" width="160"/>
-<img src="./imgs/html.png" alt="html" width="50"/>
-<img src="./imgs/css.png" alt="css" width="40"/>
-<img src="./imgs/mysql.png" alt="mysql" width="100"/>
-<img src="./imgs/mongodb.png" alt="mongodb" width="50"/>
-<img src="./imgs/csharp.png" alt="c#" width="50"/>
-<img src="./imgs/figma.jpg" alt="figma" width="50"/>
-<img src="./imgs/git.png" alt="git" width="78"/>
-<img src="./imgs/laravel.png" alt="laravel" width="50"/>
-<img src="./imgs/linux.jpg" alt="linux" width="85"/>
-<img src="./imgs/python.png" alt="python" width="100"/>
-<img src="./imgs/monkeytype.jpg" alt="monkeytype" width="70"/>
-<img src="./imgs/nvim.png" alt="vim" width="70"/>
-    
-##
-<hr>
